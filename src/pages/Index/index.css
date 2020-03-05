@@ -1,0 +1,18 @@
+.nav{
+    padding:10px 0;
+}
+.nav .am-flexbox-item{
+    text-align: center;
+}
+.nav img{
+    width:48px;
+}
+.nav span{
+    display: block;
+    margin:7px 0;
+    font-size: 13px;
+    font-weight: normal;
+}
+.swiper{
+    height:212px;
+}

@@ -65,7 +65,7 @@ export default class Home extends React.Component{
               <Route path="/home/houseList" component={ HouseList} />
               <Route path="/home/profile" component={ Profile } />
 
-                <TabBar unselectedTintColor="#888" tintColor="#21b97a" barTintColor="white" noRenderContent="true">
+                <TabBar unselectedTintColor="#888" tintColor="  #21b97a" barTintColor="white" noRenderContent="true">
                   {this.renderTabBarItem()}
                 </TabBar>
             </div>
